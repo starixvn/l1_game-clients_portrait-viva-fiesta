@@ -1,8 +1,4 @@
 {
-    "mainNamespace": "Olympub",
-    "additionalNamespaces": [
-        "Common",
-        "cascadingslot",
-        "FreeSpinBonus"
-    ]
+    "mainNamespace": "VivaFiesta",
+    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
 }

@@ -85,6 +85,7 @@ export const languages = {
         "losses": "Losses",
         "maintenance_time": "Maintenance time",
         "manual": "Manual",
+        "max": "Max",
         "max_stake_hand": "Max total stake on Hand is %{maxBet}",
         "md5_copy": "COPY",
         "md5_key": "MD5 KEY",
@@ -258,6 +259,7 @@ export const languages = {
         "start": "Start",
         "start_auto_bet": "Start Auto Bet",
         "start_in": "Betting time: {time}s",
+        "stop_auto_bet": "Stop Auto Bet",
         "stop_on_loss": "Stop on Loss",
         "stop_on_win": "Stop on Win",
         "submit": "SUBMIT",
@@ -303,6 +305,7 @@ export const languages = {
         "bet_level_shorten": "Bet Level",
         "bet_multiplier_x": "Bet Multiplier 20x",
         "big_win": "Big Win",
+        "btn_buy_free_spins": "Buy\nFree Spins",
         "buy_free_spins": "Buy Free Spins",
         "coin_value": "Coin Value",
         "coin_value_shorten": "Coin Value",
@@ -317,9 +320,9 @@ export const languages = {
         "free_spins_active": "Active",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
-        "from_settle_to_spin1": "SPIN TO WIN!",
-        "from_settle_to_spin2": "SPIN MORE, WIN MORE!",
-        "from_settle_to_spin3": "TRY TURBO MODE!",
+        "from_settle_to_spin1": "Spin to win!",
+        "from_settle_to_spin2": "Spin more, win more!",
+        "from_settle_to_spin3": "Try Turbo mode",
         "gameNames.47": "Treasure Island",
         "header_initial_spin": "Initial Spin",
         "header_no": "No.",
@@ -335,6 +338,8 @@ export const languages = {
         "label_on_game_icon": "Cascading Reels",
         "last_free_spin": "Last Free Spin",
         "mega_win": "Mega Win",
+        "msg_free_spins": "Increasing Multiplier in Free Spins",
+        "msg_random_multipliers": "Random Multipliers up to 250x",
         "multiplier": "Multiplier",
         "multiplier_preview_odds": "Multiplier Bonus will apply for Tumble Win.",
         "no_winning_combination": "No Winning Combination",
@@ -346,10 +351,10 @@ export const languages = {
         "reach_max_win": "You reached the Max Win",
         "real_mode": "Real Mode",
         "remaining_free_spins": "Remaining Free Spins",
-        "round_settle_msg": "GOOD LUCK!",
+        "round_settle_msg": "Good luck!",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters trigger %{numOfSpins} FREE SPINS.",
-        "show_msg_when_spin_desktop": "HOLD SPACE OR CLICK SPIN",
-        "show_msg_when_spin_phone": "TAP OR HOLD SPIN TO BEGIN",
+        "show_msg_when_spin_desktop": "Hold Space or click Spin",
+        "show_msg_when_spin_phone": "Tap or hold Spin to begin",
         "start": "Start",
         "super_win": "Super Win",
         "top_message1": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
@@ -371,10 +376,7 @@ export const languages = {
         "warning_trial_mode": "Play Real,\\nWin Real",
         "win_tumble_msg": "CONGRATULATION!",
         "you_have_won": "You Have Won",
-        "you_win_free_spin": "You win",
-        "msg_random_multipliers": "Random Multipliers Up To 250x",
-        "mgs_free_spins": "Increasing Multiplier In Free Spins",
-        "btn_buy_free_spins": "Buy\nFree Spins"
+        "you_win_free_spin": "You win"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "Total Bet",
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later."
+    },
+    "VivaFiesta": {
+        "game_name": "Viva Fiesta",
+        "game_icon_name": "Viva Fiesta"
     }
 };
 

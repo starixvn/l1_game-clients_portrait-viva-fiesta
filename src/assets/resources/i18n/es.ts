@@ -85,6 +85,7 @@ export const languages = {
         "losses": "Pérdidas",
         "maintenance_time": "Tiempo de mantenimiento",
         "manual": "Manual",
+        "max": "Máx.",
         "max_stake_hand": "La apuesta máxima total en la mano es %{maxBet}",
         "md5_copy": "Copiar",
         "md5_key": "Clave MD5",
@@ -258,6 +259,7 @@ export const languages = {
         "start": "Iniciar",
         "start_auto_bet": "Iniciar Apuesta Automática",
         "start_in": "Tiempo de apuesta: {time}s",
+        "stop_auto_bet": "Detener apuesta automática",
         "stop_on_loss": "Parar al perder",
         "stop_on_win": "Parar al ganar",
         "submit": "ENVIAR",
@@ -303,6 +305,7 @@ export const languages = {
         "bet_level_shorten": "Nivel de\nApuesta",
         "bet_multiplier_x": "Multiplicador de Apuesta\n20x",
         "big_win": "Big Win",
+        "btn_buy_free_spins": "Comprar\nFree Spins",
         "buy_free_spins": "Comprar Free Spins",
         "coin_value": "Valor de Moneda",
         "coin_value_shorten": "Valor de\nMoneda",
@@ -317,9 +320,9 @@ export const languages = {
         "free_spins_active": "Activo",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
-        "from_settle_to_spin1": "¡GIRA Y GANA!",
-        "from_settle_to_spin2": "¡GIRA MÁS, GANA MÁS!",
-        "from_settle_to_spin3": "¡PRUEBA EL MODO TURBO!",
+        "from_settle_to_spin1": "¡Gira y gana!",
+        "from_settle_to_spin2": "¡Gira más, gana más!",
+        "from_settle_to_spin3": "Prueba el modo Turbo",
         "gameNames.47": "Isla del Tesoro",
         "header_initial_spin": "Giro Inicial",
         "header_no": "No.",
@@ -335,6 +338,8 @@ export const languages = {
         "label_on_game_icon": "Rodillos en cascada",
         "last_free_spin": "Último Free Spin",
         "mega_win": "Mega Win",
+        "msg_free_spins": "Multiplicador creciente en Free Spin",
+        "msg_random_multipliers": "Multiplicadores aleatorios de hasta 250x",
         "multiplier": "Multiplicador",
         "multiplier_preview_odds": "El Bono Multiplicador aplica a cascadas.",
         "no_winning_combination": "Sin Combinación Ganadora",
@@ -346,10 +351,10 @@ export const languages = {
         "reach_max_win": "¡Alcanzaste la Ganancia Máxima!",
         "real_mode": "Dinero Real",
         "remaining_free_spins": "Free Spin Restantes",
-        "round_settle_msg": "¡BUENA SUERTE!",
+        "round_settle_msg": "¡Buena suerte!",
         "scatter_odds_preview": "%{numOfScatters} o más Scatters activan %{numOfSpins} FREE SPINS.",
-        "show_msg_when_spin_desktop": "MANTÉN ESPACIO O HAZ CLIC EN GIRAR",
-        "show_msg_when_spin_phone": "PULSA O MANTÉN PULSADO GIRAR PARA COMENZAR",
+        "show_msg_when_spin_desktop": "Mantén Espacio o haz clic en Girar",
+        "show_msg_when_spin_phone": "Pulsa o mantén pulsado Girar para comenzar",
         "start": "Iniciar",
         "super_win": "Super Win",
         "top_message1": "LOS SÍMBOLOS PAGAN EN CUALQUIER LUGAR DE LA PANTALLA",
@@ -371,10 +376,7 @@ export const languages = {
         "warning_trial_mode": "Juega de verdad,\nGana de verdad",
         "win_tumble_msg": "¡FELICIDADES!",
         "you_have_won": "Has Ganado",
-        "you_win_free_spin": "Ganaste",
-        "msg_random_multipliers": "Multiplicadores Aleatorios De Hasta 250x",
-        "mgs_free_spins": "Multiplicador Creciente En Free Spin",
-        "btn_buy_free_spins": "Comprar\nFree Spins"
+        "you_win_free_spin": "Ganaste"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "Apuesta Total",
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde."
+    },
+    "VivaFiesta": {
+        "game_name": "Viva Fiesta",
+        "game_icon_name": "Viva Fiesta"
     }
 };
 
