@@ -279,7 +279,7 @@ export const languages = {
         "total_bet": "总赌注",
         "total_stake": "总赌注",
         "total_stake_shorten": "总赌注",
-        "total_win": "总赢得",
+        "total_win": "总赢",
         "under_maintenance_suggest": "维护完成后请重新登录继续玩游戏。",
         "under_maintenance_time": "从 %{startTime} 到 %{endTime} (GMT+8)",
         "waggred": "Waggred",
@@ -328,7 +328,7 @@ export const languages = {
         "header_no": "号",
         "header_result_board": "结果板",
         "header_total_multiplier": "总乘数",
-        "header_total_win": "总赢得",
+        "header_total_win": "总赢",
         "header_tumble": "消除掉落",
         "header_tumble_win": "连续中奖",
         "header_win_amount": "获胜金额",
@@ -376,7 +376,8 @@ export const languages = {
         "warning_trial_mode": "真玩，\\n赢真钱",
         "win_tumble_msg": "恭喜！",
         "you_have_won": "你赢了",
-        "you_win_free_spin": "您赢得"
+        "you_win_free_spin": "您赢得",
+        "turbo_icon": "涡轮"
     },
     "Olympub": {
         "game_icon_name": "奥林酒馆",

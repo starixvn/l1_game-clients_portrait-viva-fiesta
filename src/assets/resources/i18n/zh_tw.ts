@@ -376,7 +376,8 @@ export const languages = {
         "warning_trial_mode": "真玩，\\n贏真錢",
         "win_tumble_msg": "恭喜！",
         "you_have_won": "你贏了",
-        "you_win_free_spin": "您贏得"
+        "you_win_free_spin": "您贏得",
+        "turbo_icon": "渦輪"
     },
     "Olympub": {
         "game_icon_name": "奧林酒館",

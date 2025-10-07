@@ -376,7 +376,8 @@ export const languages = {
         "warning_trial_mode": "เล่นจริง\\nชนะจริง",
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_have_won": "คุณชนะแล้ว!",
-        "you_win_free_spin": "คุณชนะ"
+        "you_win_free_spin": "คุณชนะ",
+        "turbo_icon": "เทอร์โบ"
     },
     "Olympub": {
         "game_icon_name": "Olympub",

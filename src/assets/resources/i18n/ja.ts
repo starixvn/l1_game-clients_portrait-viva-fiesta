@@ -376,7 +376,8 @@ export const languages = {
         "warning_trial_mode": "リアルマネーでプレイ、リアルマネーを獲得！",
         "win_tumble_msg": "おめでとうございます！",
         "you_have_won": "当たりです",
-        "you_win_free_spin": "当たり"
+        "you_win_free_spin": "当たり",
+        "turbo_icon": "ターボ"
     },
     "Olympub": {
         "game_icon_name": "Olympub",

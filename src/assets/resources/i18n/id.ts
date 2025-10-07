@@ -357,10 +357,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Ketuk atau tahan Spin untuk memulai",
         "start": "Mulai",
         "super_win": "Kemenangan Super",
-        "top_message1": "SIMBOL MEMBAYAR DI MANA SAJA DI LAYAR",
-        "top_message2a": "DAPATKAN",
-        "top_message2b": "UNTUK MENGGANDAKAN KEMENANGAN TUMBLE",
-        "top_message3": "MENANGKAN HINGGA %{maxWin}X TARUHAN",
+        "top_message1": "Simbol membayar di mana saja di layar",
+        "top_message2a": "Dapatkan",
+        "top_message2b": "untuk menggandakan kemenangan tumble",
+        "top_message3": "Menangkan hingga %{maxWin}x taruhan",
         "total_bet": "Total Taruhan",
         "total_bet_shorten": "Total \nTaruhan",
         "total_multiplier": "Pengganda Total",
@@ -376,7 +376,8 @@ export const languages = {
         "warning_trial_mode": "Main Nyata,\\nMenang Nyata",
         "win_tumble_msg": "SELAMAT!",
         "you_have_won": "Anda Telah Menang",
-        "you_win_free_spin": "Anda menang"
+        "you_win_free_spin": "Anda menang",
+        "turbo_icon": "Turbo"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
