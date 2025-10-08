@@ -1,7 +1,7 @@
 import Observer from "observer";
 
 import { _decorator } from "cc";
-import { CascadingSlotGame } from "db://shared-cascading-slot/cascading-slot-game";
+import { PortraitCascadingSlotGame } from "db://shared-cascading-slot/portrait-cascading-slot-game";
 import { startGame } from "db://shared-components/shared/scripts/startup";
 import { siteConfigs } from "../../../scripts/site-configs";
 import { containerOptions } from "../containerOptions";
@@ -10,11 +10,11 @@ import "./../../../resources/i18n";
 
 startGame(settings.name, containerOptions, siteConfigs, settings.tolgeeNamespaces);
 
-const { ccclass, property } = _decorator;
-const { observer, render, handle } = Observer;
+const { ccclass } = _decorator;
+const { observer } = Observer;
 
 @ccclass
 @observer(settings.name)
-export default class Game extends CascadingSlotGame {
+export default class Game extends PortraitCascadingSlotGame {
     namespace = settings.name;
 }
