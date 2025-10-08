@@ -1089,7 +1089,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 455.42376708984375,
+      "width": 404.25579833984375,
       "height": 40.32
     },
     "_anchorPoint": {
@@ -1125,7 +1125,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "BẤM VÀO VỊ TRÍ BẤT KỲ ĐỂ TIẾP TỤC",
+    "_string": "PRESS ANYWHERE TO CONTINUE",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
