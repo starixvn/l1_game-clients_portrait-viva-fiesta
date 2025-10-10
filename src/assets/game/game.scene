@@ -1593,7 +1593,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -3456,7 +3456,7 @@
     "value": {
       "__type__": "cc.Vec3",
       "x": 83.60395812988281,
-      "y": -8.08,
+      "y": -7.08,
       "z": 0
     }
   },
@@ -8024,9 +8024,6 @@
     "__prefab": null,
     "nodeFreeSpinsSections": {
       "__id__": 260
-    },
-    "nodeBetControls": {
-      "__id__": 256
     },
     "labelFreeSpinsCount": {
       "__id__": 268
