@@ -1249,6 +1249,7 @@
     "instance": {
       "__id__": 34
     },
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -3604,8 +3605,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.7,
-      "y": 0.7,
+      "x": 1,
+      "y": 1,
       "z": 1
     },
     "_mobility": 0,
