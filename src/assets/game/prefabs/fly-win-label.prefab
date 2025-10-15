@@ -79,7 +79,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
+      "width": 61.5,
       "height": 48
     },
     "_anchorPoint": {
@@ -115,11 +115,11 @@
       "b": 255,
       "a": 255
     },
-    "_string": "",
+    "_string": "1212",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 32,
-    "_fontSize": 32,
+    "_actualFontSize": 36,
+    "_fontSize": 36,
     "_fontFamily": "Arial",
     "_lineHeight": 48,
     "_overflow": 0,
