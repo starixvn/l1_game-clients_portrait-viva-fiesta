@@ -4,16 +4,6 @@
         "path": "big-win",
         "isLazyLoad": true
     },
-    "pund-freespin": {
-        "bundle": "resources",
-        "path": "pund-freespin",
-        "isLazyLoad": true
-    },
-    "pund-bigwin": {
-        "bundle": "resources",
-        "path": "pund-bigwin",
-        "isLazyLoad": true
-    },
     "click": {
         "bundle": "resources",
         "path": "click",
@@ -118,6 +108,14 @@
         "isLazyLoad": true
     },
     "super-win": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "stinger-wincount": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "stinger-freespin-win": {
         "bundle": "resources",
         "isLazyLoad": true
     }
